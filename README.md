@@ -1,5 +1,7 @@
 *(Please note that is a forked repository. Details of the design are described at the very end of this `README.md`. Go to https://tinytapeout.com for instructions!)*
+
 *(Please also note that this is the last-minute migration of a tt1 project: https://github.com/maehw/wokwi-verilog-gds-wolf-goat-cabbage)*
+
 
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
